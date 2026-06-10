@@ -8,15 +8,15 @@ View my [timeline and progress](/notes/top-timeline.md). (Note that my initial c
 
 ## Projects
 
-*TOP projects listed in reverse chronological order—most recent first. (Favorite projects are bolded.)*
+*TOP projects listed in reverse chronological order—most recent first*
 
-- [**Blog API**](https://github.com/cobbland/blog)
+- [Blog API](https://github.com/cobbland/blog)
 - [File Uploader](https://github.com/cobbland/file-uploader)
 - [Members Only](https://github.com/cobbland/members-only)
 - [Inventory Application](https://github.com/cobbland/inventory-application)
 - [Mini Message Board](https://github.com/cobbland/mini-message-board)
 - [Shopping Cart](https://github.com/cobbland/shopping-cart)
-- [**Memory Card**](https://github.com/cobbland/memory-card)
+- [Memory Card](https://github.com/cobbland/memory-card)
 - [CV Application](https://github.com/cobbland/cv-app)
 - [Battleship](https://github.com/cobbland/battleship)
 - [Knights Travails](https://github.com/cobbland/knights-travails)
